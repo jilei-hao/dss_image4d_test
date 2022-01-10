@@ -1,0 +1,17 @@
+{
+    "name": "Image4D Test",
+    "version": "1.0.0",
+    "keywords": [
+      "4D"
+    ],
+    "shortdesc": "Image4D download test",
+    "longdesc": "Image4D download test",
+    "tags": [
+      {
+        "name": "4D Image",
+        "type": "MainImage",
+        "hint": "The anatomical image onto which you want to warp the segmentation",
+        "required": true
+      }
+    ]
+  }
